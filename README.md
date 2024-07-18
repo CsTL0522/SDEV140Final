@@ -38,3 +38,10 @@ The user profile opens up a selection of buttons to choose different sheets.
 once clicked the user is then prompted to key in information pertaining to the project they are on. This updates and saves into a visual tree as well as stores a total and average for each selection. 
 The supervisor has same privalages but with access to the totals and the averages from the users profile. This allows for the supervisor to see waht is going on at any time. There will be more as i progress
 
+7/16 Update :
+So due to recent research I am revamping the program. The windows are to much each section it pops a new one. 
+I am making the main a class to eliminate the global variables and clean it up a bit this will help with it down the road in final form. 
+I also found a new way of going through pages I will be using the tk. Frame.  So instead of using dffernet windows navigation can be done through frames.
+I also found I can import ttk from tkinter and have a tree view widget. I will be implementing this is the temp page and in the to be created tracking sheet pages. This will allow for a visual of the added data in long form.
+I have ran into organizational issues and I still need to add back navigation and a exit program. I have been battling the fact of the program ending upon inputing one set of data.
+
