@@ -1,4 +1,4 @@
-# SDEV140Final
+# SDEV140Final Requirements
 Please follow the following requirements for your final project, this shows a detailed breakdown for how the points are distributed:  
 
 The link of the GitHub repository for your final project. 10 points
@@ -29,3 +29,12 @@ Author: Corey Lambert
 Date Written:7/01/2024
 Assignment: Final Project
 This Program is designed as an interface to hold and operate all paperwork documnetation inside of factory.....
+
+
+About The Program
+This program is designed to hold and operate all key documents within a production factory. 
+It starts with password validation. This opens one of two profiles. The user profile or the Supervisor profile. With these there are separate privilages.
+The user profile opens up a selection of buttons to choose different sheets. 
+once clicked the user is then prompted to key in information pertaining to the project they are on. This updates and saves into a visual tree as well as stores a total and average for each selection. 
+The supervisor has same privalages but with access to the totals and the averages from the users profile. This allows for the supervisor to see waht is going on at any time. There will be more as i progress
+
