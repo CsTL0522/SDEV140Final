@@ -45,3 +45,9 @@ I also found a new way of going through pages I will be using the tk. Frame.  So
 I also found I can import ttk from tkinter and have a tree view widget. I will be implementing this is the temp page and in the to be created tracking sheet pages. This will allow for a visual of the added data in long form.
 I have ran into organizational issues and I still need to add back navigation and a exit program. I have been battling the fact of the program ending upon inputing one set of data.
 
+7/25
+The code is finally functional and runs great. I had to modify and eliminate the superviser function as it did nothing for this code and it can be added at a later date. Fot this project it was
+not required. Honestly i ran out of time and greatl underestimated the time it would take to get to this part. Mulitple changes to original design were implimented to allow clearity for user to operate. 
+The frames had to be organized differently and i spent alot of my time researching eays to do the tasks i wanted and what I pictured. I am happy with the result as it functions smoothly and 
+the user should have no question of inputs to how to operate. I love the tree view as it almost duplicates the look of the paper version of sheets in use at this facility.
+
